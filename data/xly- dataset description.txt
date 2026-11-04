@@ -1,0 +1,10 @@
+XLY: Consumer Discretionary Select Sector SPDR Fund
+CPIAUCNS: Consumer Price Index, Not Seasonally Adjusted
+FEDFUNDS: Central bank interest rate (Federal Funds Rate)
+CL=F: Crude Oil Futures Price (front-month contract)
+GC=F: Gold Futures Price (front-month contract)
+ZN=F: 10-Year Treasury Note Futures Price (front-month contract)
+DX-Y.NYB: US Dollar Index (DXY), a benchmark that measures the value of the US dollar relative to a basket of six major foreign currencies.
+
+
+Your task is to construct and evaluate two different forecasting models of a given S&P500 Select Sector index. A Select Sector index is a weighted average of stock prices of major public companies in an industry sector, such as Communication, Energy, Financials or Real Estate. The provided dataset contains one such sector index (the name of the column starts with "X", for example, "XLE") and 6 other variables that are commonly used in forecasting models of stock prices. All the variables are described in "dataset-description.txt".
